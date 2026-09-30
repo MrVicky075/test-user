@@ -1,0 +1,6 @@
+com\example\user\model\User.class
+com\example\user\UserApplication.class
+com\example\user\service\UserService.class
+com\example\user\controller\UserApiController.class
+com\example\user\controller\UserWebController.class
+com\example\user\repository\UserRepository.class
